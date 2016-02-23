@@ -1,0 +1,13 @@
+{
+  "themoviedb": {
+    "host": "http://api.themoviedb.org/3",
+    "apiKey": "xyz",
+    "pageLimit": 50,
+    "requestDelay": 200
+  },
+  "redis": {
+    "host": "127.0.0.1",
+    "port": 6379,
+    "password": null
+  }
+}

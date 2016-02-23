@@ -1,0 +1,75 @@
+{
+  "adult": false,
+  "backdrop_path": "/nbIrDhOtUpdD9HKDBRy02a8VhpV.jpg",
+  "belongs_to_collection": null,
+  "budget": 58000000,
+  "genres": [{
+    "id": 35,
+    "name": "Comedy"
+  }, {
+    "id": 12,
+    "name": "Adventure"
+  }, {
+    "id": 28,
+    "name": "Action"
+  }, {
+    "id": 878,
+    "name": "Science Fiction"
+  }],
+  "homepage": "http://www.foxmovies.com/movies/deadpool",
+  "id": 293660,
+  "imdb_id": "tt1431045",
+  "original_language": "en",
+  "original_title": "Deadpool",
+  "overview": "Based upon Marvel Comics’ most unconventional anti-hero, DEADPOOL tells the origin story of former Special Forces operative turned mercenary Wade Wilson, who after being subjected to a rogue experiment that leaves him with accelerated healing powers, adopts the alter ego Deadpool. Armed with his new abilities and a dark, twisted sense of humor, Deadpool hunts down the man who nearly destroyed his life.",
+  "popularity": 88.157605,
+  "poster_path": "/inVq3FRqcYIRl2la8iZikYYxFNR.jpg",
+  "production_companies": [{
+    "name": "Twentieth Century Fox Film Corporation",
+    "id": 306
+  }, {
+    "name": "Marvel Entertainment, LLC",
+    "id": 325
+  }, {
+    "name": "Marvel Enterprises",
+    "id": 19551
+  }],
+  "production_countries": [{
+    "iso_3166_1": "US",
+    "name": "United States of America"
+  }],
+  "release_date": "2016-02-09",
+  "revenue": 0,
+  "runtime": 108,
+  "spoken_languages": [{
+    "iso_639_1": "en",
+    "name": "English"
+  }],
+  "status": "Released",
+  "tagline": "Witness the beginning of a happy ending",
+  "title": "Deadpool",
+  "video": false,
+  "vote_average": 7.2,
+  "vote_count": 671,
+  "trailers": {
+    "quicktime": [
+
+    ],
+    "youtube": [{
+      "name": "Official Green Band Trailer",
+      "size": "HD",
+      "source": "ONHBaC-pfsk",
+      "type": "Trailer"
+    }, {
+      "name": "Official Red Band 2 Trailer",
+      "size": "HD",
+      "source": "ZIM1HydF9UA",
+      "type": "Trailer"
+    }, {
+      "name": "Official Green Band 2 Trailer",
+      "size": "HD",
+      "source": "9vN6DHB6bJc",
+      "type": "Trailer"
+    }]
+  }
+}

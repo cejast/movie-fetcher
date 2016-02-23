@@ -1,0 +1,31 @@
+{
+  "name": "movie-fetcher",
+  "version": "1.0.0",
+  "description": "TheMovieDB Movie Fetcher",
+  "main": "index.js",
+  "scripts": {
+    "test": "NODE_CONFIG='{\"themoviedb\":{\"requestDelay\":0}}' mocha",
+    "posttest": "npm run lint",
+    "lint": "eslint .",
+    "start": "node index.js",
+    "coverage": "NODE_CONFIG='{\"themoviedb\":{\"requestDelay\":0}}' istanbul cover _mocha -- -R dot"
+  },
+  "author": "cemjs@hotmail.co.uk",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^1.5.2",
+    "config": "^1.19.0",
+    "flashheart": "^2.1.1",
+    "lodash": "^4.3.0",
+    "redis": "^2.4.2"
+  },
+  "devDependencies": {
+    "istanbul": "^0.4.2",
+    "mocha": "^2.4.5",
+    "nock": "^7.2.1",
+    "sinon": "^1.17.3"
+  },
+  "engines": {
+    "node": ">=4.0.0"
+  }
+}

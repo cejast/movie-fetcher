@@ -35,5 +35,6 @@ describe('page-generator', () => {
     }
 
     assert.strictEqual(nextPage.get(), 1);
+    assert.strictEqual(nextPage.get(), 2);
   });
 });
